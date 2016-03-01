@@ -1,14 +1,14 @@
 Develop:
 
-.. image:: https://secure.travis-ci.org/StyleCaster/pyjenkins.png?branch=develop
+.. image:: https://secure.travis-ci.org/ActionLuzifer/pyjenkins.png?branch=develop
     :alt: Build Status
-    :target: https://secure.travis-ci.org/StyleCaster/pyjenkins
+    :target: https://secure.travis-ci.org/ActionLuzifer/pyjenkins
 
 Master (release branch):
 
-.. image:: https://secure.travis-ci.org/StyleCaster/pyjenkins.png?branch=master
+.. image:: https://secure.travis-ci.org/ActionLuzifer/pyjenkins.png?branch=master
     :alt: Build Status
-    :target: https://secure.travis-ci.org/StyleCaster/pyjenkins
+    :target: https://secure.travis-ci.org/ActionLuzifer/pyjenkins
 
 ===============================
 PyJenkins
